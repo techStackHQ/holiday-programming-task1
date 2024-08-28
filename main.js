@@ -3,3 +3,4 @@ console.log("That you danced");
 console.log("what is your name?");
 console.log("where are you from?");
 console.log("what is your favourite food?");
+console.log("how old are you?");
